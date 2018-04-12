@@ -13,7 +13,7 @@ from keras.preprocessing.image import ImageDataGenerator
 #use optimised settings
 cv2.setUseOptimized(True)
 
-num_gpus = 2
+num_gpus = 1
 
 _BATCH = 16
 _EPOCH = 5000
