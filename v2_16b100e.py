@@ -16,7 +16,7 @@ cv2.setUseOptimized(True)
 num_gpus = 1
 
 _BATCH = 16
-_EPOCH = 5000
+_EPOCH = 100
 _HARDIMG = 'f952cc65376009cfad8249e53b9b2c0daaa3553e897096337d143c625c2df886'
 #set scale train images
 _IMGHEIGHT = 256
